@@ -6,3 +6,4 @@
 * [@nor2-njit](https://github.com/nor2-njit)
 * [@shimshamz](https://github.com/shimshamz)
 * [@thetarkus](https://github.com/thetarkus)
+* [@flamebird98](https://github.com/flamebird98)
